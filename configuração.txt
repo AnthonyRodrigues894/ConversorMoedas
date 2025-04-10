@@ -3,6 +3,8 @@ git config --global user.email anthonyserrano894@gmail.com
 
 abrir o terminal - ctrl + '
 
+cd ConversorMoedas 
+
 criar um projeto react native com expo:
 npx expo start --localhost --android
 
